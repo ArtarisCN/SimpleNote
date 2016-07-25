@@ -1,0 +1,20 @@
+PODS:
+  - pop (1.0.7)
+  - RESideMenu (4.0.7)
+  - UIColor+FlatColors (0.0.2)
+  - VBFPopFlatButton (0.0.6):
+    - pop
+
+DEPENDENCIES:
+  - pop (~> 1.0)
+  - RESideMenu (~> 4.0.7)
+  - UIColor+FlatColors
+  - VBFPopFlatButton
+
+SPEC CHECKSUMS:
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+  UIColor+FlatColors: 6c699df7a575281794c688c64cee6c44fd1f93b4
+  VBFPopFlatButton: 782344da63f104c279a857d806e065117a7e1196
+
+COCOAPODS: 0.38.2
